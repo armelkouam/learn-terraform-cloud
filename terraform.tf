@@ -1,7 +1,7 @@
 terraform {
 
   cloud {
-    organization = "hermann_company"
+    organization = "armel-terraform-org"
 
     workspaces {
       name = "terraform-cloud-ec2"
